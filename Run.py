@@ -1,0 +1,10 @@
+import SUITE_1_TestCases
+
+SUITE_1_TestCases.SUITE_1_TC_21()
+SUITE_1_TestCases.SUITE_1_TC_22()
+SUITE_1_TestCases.SUITE_1_TC_23()
+#SUITE_1_TestCases.SUITE_1_TC_24()
+#SUITE_1_TestCases.SUITE_1_TC_25()
+#SUITE_1_TestCases.SUITE_1_TC_26()
+#SUITE_1_TestCases.SUITE_1_TC_27()
+#SUITE_1_TestCases.SUITE_1_TC_28()
